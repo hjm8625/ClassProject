@@ -11,3 +11,6 @@ Compressed sensing is the way to find answer to using sparsity of X.
 A means Measurement matrix, y means Observation, K means Sparsity.
 The project problem is that express the real picture that is mess with the noise.
 
+3. App - timetogo (techno management)
+This is a app that user can set alarm more user friendly. It was hard to set a departure time to go, so we give not only target alarm but also departure time.
+this file is just prototype to show how app works.
